@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1789293334 source:/home/synor/Bureau/SRIT 3: 26-27/STRUC DONNEE CPLX/PILE/Files/file.c
+	<stdio.h>
+	<stdlib.h>
+	"file.h"
+
+1789293334 /home/synor/Bureau/SRIT 3: 26-27/STRUC DONNEE CPLX/PILE/Files/file.h
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1789291944 source:/home/synor/Bureau/SRIT 3: 26-27/STRUC DONNEE CPLX/PILE/Piles/pile.c
+	<stdio.h>
+	<stdlib.h>
+	"pile.h"
+
+1789291944 /home/synor/Bureau/SRIT 3: 26-27/STRUC DONNEE CPLX/PILE/Piles/pile.h
+
+1792077607 source:/home/synor/Bureau/SRIT 3: 26-27/STRUC DONNEE CPLX/PILE/Piles/main.c
+	<stdio.h>
+	"pile.h"
+

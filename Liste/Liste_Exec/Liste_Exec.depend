@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1789309414 source:/home/synor/Bureau/SRIT 3: 26-27/STRUC DONNEE CPLX/PILE/Liste/liste.c
+	<stdio.h>
+	<stdlib.h>
+	"liste.h"
+
+1789309414 /home/synor/Bureau/SRIT 3: 26-27/STRUC DONNEE CPLX/PILE/Liste/liste.h
+
+1792077577 source:/home/synor/Bureau/SRIT 3: 26-27/STRUC DONNEE CPLX/PILE/Liste/main.c
+	<stdio.h>
+	"liste.h"
+
